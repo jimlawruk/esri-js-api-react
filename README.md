@@ -2,7 +2,7 @@
 
 A starter template for an ESRI ArcGIS JS API map using React and Vite.
 
-[!https://raw.githubusercontent.com/jimlawruk/esri-js-api-react/main/screenshot.png]
+[![Screenshot](https://raw.githubusercontent.com/jimlawruk/esri-js-api-react/main/screenshot.png)]
 
 ## Setup
 
